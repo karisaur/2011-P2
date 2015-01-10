@@ -1,0 +1,16 @@
+9
+1 0 0 Azerbaijan
+2 1 5 Bhutan
+3 0 0 Brunei
+4 3 7 Jordan
+5 0 8 Kuwait
+6 0 0 Kyrgyzstan
+7 6 9 Laos
+8 0 0 Nepal
+9 0 0 Oman
+search Qatar
+insert Georgia
+insert Jordan
+delete Jordan
+search Jordan
+insert Tajikistan

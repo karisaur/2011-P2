@@ -1,0 +1,24 @@
+12
+1 2 6 Central African Republic
+2 3 4 Burkina Faso
+3 0 0 Algeria
+4 0 5 Burundi
+5 0 0 Cameroon
+6 7 9 Eritrea
+7 8 0 Djibouti
+8 0 0 Chad
+9 10 11 Gambia
+10 0 0 Gabon
+11 0 12 Ghana
+12 0 0 Lesotho
+search Burundi
+delete Guinea
+search Malawi
+search Guinea
+insert Malawi
+delete Burundi
+delete Algeria
+search Benin
+insert Malawi
+delete Cameroon
+search Burundi

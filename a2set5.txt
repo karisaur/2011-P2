@@ -1,0 +1,16 @@
+7
+1 2 3 Brazil
+2 4 0 Colombia
+3 0 5 Ecuador
+4 6 0 Paraguay
+5 0 7 Peru
+6 0 0 Suriname
+7 0 0 Uruguay
+search Suriname
+search Guyana
+insert Bolivia
+insert Uruguay
+delete Argentina
+delete Uruguay
+search Bolivia
+search Uruguay

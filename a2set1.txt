@@ -1,0 +1,17 @@
+10
+1 2 7 Macedonia
+2 3 4 Armenia
+3 0 0 Andorra
+4 5 6 Estonia
+5 0 0 Bosnia and Herzegovina
+6 0 0 Liechtenstein
+7 8 9 San Marino
+8 0 0 Moldova
+9 10 0 Vatican City
+10 0 0 Slovakia
+search Luxembourg
+insert Albania
+insert Luxembourg
+search Luxembourg
+delete Monaco
+delete Moldova
